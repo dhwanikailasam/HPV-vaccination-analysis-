@@ -72,12 +72,12 @@ Project directory should have the following structure:
 hpv project/
 ├── analysis.py
 ├── README.md
+├── MAT2007_HPV_PROJECT__DHWANI_.pdf
 ├── data/
 │   └── hpv_vaccination.csv
 └── figures/
     ├── mean_sd_hpv.png
     └── skewness_kurtosis_hpv.png
-
 5. Conditions: Any requirements or assumptions such as a specific Python version, file paths or access permissions 
 
 The script requires Python 3 and the listed libraries
